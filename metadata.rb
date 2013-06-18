@@ -1,4 +1,4 @@
-name             'myface'
+name             'carolynfischer-myface'
 maintainer       'Carolyn Fischer'
 maintainer_email 'carolyn.fischer7@gmail.com'
 license          'All rights reserved'
